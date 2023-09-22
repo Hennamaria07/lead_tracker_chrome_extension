@@ -45,8 +45,8 @@ For more detailed instructions and tips on using the Lead Tracker extension, vis
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+<img src="./image/sh1.png"> <br>
+<img src="./image/sh2.png">
 
 ## Contributing
 
